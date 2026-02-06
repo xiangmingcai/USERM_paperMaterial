@@ -2,7 +2,7 @@
 supporting material for the USERM paper
 
 
-# python scripts for internal and external validation
+#python scripts for internal and external validation
 
 #Instruction
 There are 5 steps in total to do interonal and external validation for the residual model in Python. 
@@ -44,4 +44,4 @@ E:/ResidualModel/python/
 ├── Output_05_external_validation/  
 
 #All intermediate output togetehr with the folder structure will be released together with the paper in FigShare 
-# and can be access with the surf drive link for now: https://surfdrive.surf.nl/s/naxKR77oW8nbon4 .
+#and can be access with the surf drive link for now: https://surfdrive.surf.nl/s/naxKR77oW8nbon4 .
