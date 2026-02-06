@@ -10,6 +10,8 @@ step 3. Again, subset stable cell populations ("X_filtered_sample.fcs.pkl" and "
 step 4. internal validation.
 step 5. external validation.
 
+Detaied step by step instruction is commented within the scripts.
+
 Folder structure:
 E:/ResidualModel/python/
 ├── scripts/                  
@@ -37,4 +39,4 @@ E:/ResidualModel/python/
 │      └── external/
 ├── Output_05_external_validation/  
 
-# step 1
+
