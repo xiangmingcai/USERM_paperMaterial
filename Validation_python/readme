@@ -23,6 +23,13 @@ E:/ResidualModel/python/
 │   └── beads/
 │   └── cells/
 │   └── external/
-├── ssm/                  
-│   └── SSMObj_SCCcustom_Cell_CD2_SB780.rds
+├── Output_02_calculate_parameters_pinv/                  
+│   └── Aurora5L/
+│   └── Xenith/
+│      └── beads/
+│      └── cells/
+│      └── external/
+
+
+
 # step 1
