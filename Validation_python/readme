@@ -10,4 +10,19 @@ step 3. Again, subset stable cell populations for later justice validation.
 step 4. internal validation.
 step 5. external validation.
 
+Folder structure:
+E:/ResidualModel/python/
+├── scripts/                  
+├── Data/                  
+│   └── scc_Aurora5L
+│   └── scc_beads
+│   └── scc_cells
+│   └── scc_external
+├── Output_01_fcs_subset_Aurora5L/                          
+├── Output_01_fcs_subset_xenith/    
+│   └── beads/
+│   └── cells/
+│   └── external/
+├── ssm/                  
+│   └── SSMObj_SCCcustom_Cell_CD2_SB780.rds
 # step 1
