@@ -4,7 +4,7 @@ supporting material for the USERM paper
 
 #python scripts for internal and external validation
 
-#Instruction
+**Instruction**
 
 There are 5 steps in total to do interonal and external validation for the residual model in Python. 
 
@@ -12,15 +12,15 @@ The validation results are some .csv files, which will be summarized and visuali
 
 These 5 steps include:
 
-step 1. subset "X_pos.fcs.pkl", "X_neg.fcs.pkl" and "X_sample.fcs.pkl" files from each single color control .fcs files.
+**step 1**. subset "X_pos.fcs.pkl", "X_neg.fcs.pkl" and "X_sample.fcs.pkl" files from each single color control .fcs files.
 
-step 2. use subset files to calculate parameters for Residual Model.
+**step 2**. use subset files to calculate parameters for Residual Model.
 
-step 3. Again, subset stable cell populations ("X_filtered_sample.fcs.pkl" and "X_filtered_neg.fcs.pkl") for later justice validation.
+**step 3**. Again, subset stable cell populations ("X_filtered_sample.fcs.pkl" and "X_filtered_neg.fcs.pkl") for later justice validation.
 
-step 4. internal validation.
+**step 4**. internal validation.
 
-step 5. external validation.
+**step 5**. external validation.
 
 Detaied step by step instruction is commented within the scripts.
 
@@ -52,5 +52,5 @@ E:/ResidualModel/python/
 │      └── external/
 ├── Output_05_external_validation/  
 ```
-#All intermediate output togetehr with the folder structure will be released together with the paper in FigShare 
-#and can be access with the surf drive link for now: https://surfdrive.surf.nl/s/naxKR77oW8nbon4 .
+**All intermediate output togetehr with the folder structure will be released together with the paper in FigShare 
+#and can be access with the surf drive link for now: https://surfdrive.surf.nl/s/naxKR77oW8nbon4 .**
