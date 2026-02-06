@@ -1,1 +1,3 @@
 #R scripts for Residual Model benchmark, identify severe spread, and visualize validation results from Python
+
+#The files used for validation visualization in R is released together with the paper in FigShare.
