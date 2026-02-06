@@ -17,6 +17,7 @@ step 5. external validation.
 Detaied step by step instruction is commented within the scripts.
 
 Folder structure:
+ \\\`
 E:/ResidualModel/python/
 ├── scripts/                  
 ├── Data/                  
@@ -42,6 +43,6 @@ E:/ResidualModel/python/
 │      └── cells/
 │      └── external/
 ├── Output_05_external_validation/  
-
+ \\\`
 #All intermediate output togetehr with the folder structure will be released together with the paper in FigShare 
 #and can be access with the surf drive link for now: https://surfdrive.surf.nl/s/naxKR77oW8nbon4 .
